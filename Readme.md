@@ -13,6 +13,14 @@ This project is an intelligent web search and data analysis pipeline built with 
   - GROQ Models support (including Gemma, LLaMA variants)
   - Google Models support (Gemini variants)
   - Adjustable temperature settings
+ 
+- **Integrated Various Search Tools**
+  - **Tavily Search Results**: Powered by `Tavily`.
+  - **Google Search**: SerpAPIWrapper.
+  - **DuckDuckGo**: DuckDuckGoSearchAPIWrapper`.
+  - **Wikipedia**: For reliable knowledge retrieval using `WikipediaAPIWrapper`.
+  - **Google Serper API**: Additional search capability with `GoogleSerperAPIWrapper`.
+
 
 - **Customizable Search Pipeline**
   - Template-based query generation
