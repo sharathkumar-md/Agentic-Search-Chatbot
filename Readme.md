@@ -16,8 +16,8 @@ This project is an intelligent web search and data analysis pipeline built with 
  
 - **Integrated Various Search Tools**
   - **Tavily Search Results**: Powered by `Tavily`.
-  - **Google Search**: SerpAPIWrapper.
-  - **DuckDuckGo**: DuckDuckGoSearchAPIWrapper`.
+  - **Google Search**: `SerpAPIWrapper`.
+  - **DuckDuckGo**: `DuckDuckGoSearchAPIWrapper`.
   - **Wikipedia**: For reliable knowledge retrieval using `WikipediaAPIWrapper`.
   - **Google Serper API**: Additional search capability with `GoogleSerperAPIWrapper`.
 
