@@ -39,12 +39,12 @@ git clone https://github.com/yourusername/your-repo-name.git
 cd your-repo-name
 
 2.Create and activate a virtual environment:
-
+```bash
 python -m venv venv
 source venv\Scripts\activate
 
 3.Install required packages:
-
+```bash
 pip install -r requirements.txt
 
 4.Create a .env file or rename the .env-example in the project root directory:
@@ -54,4 +54,5 @@ And place the required api key as mentioned in .env-example
 5.Running the Application
 
 Start the Streamlit app:
+```bash
 streamlit run src/main.py
