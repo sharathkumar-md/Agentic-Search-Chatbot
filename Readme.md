@@ -63,5 +63,5 @@ And place the required api key as mentioned in .env-example
 
 Start the Streamlit app:
 ```bash
-streamlit run src/main.py
+streamlit run .\BreakoutAI.py
 ```
