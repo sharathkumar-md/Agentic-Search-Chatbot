@@ -37,7 +37,7 @@ This project is an intelligent web search and data analysis pipeline built with 
 ```bash
 git clone https://github.com/yourusername/your-repo-name.git
 cd your-repo-name
-bash```
+```
 2.Create and activate a virtual environment:
 ```bash
 python -m venv venv
